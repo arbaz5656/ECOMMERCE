@@ -22,7 +22,6 @@ cd django-ecommerce
 ### 2️⃣ Create a Virtual Environment
 ```sh
 python -m venv ven
-source ven/bin/activate  # On Mac/Linux
 ven\Scripts\activate  # On Windows
 ```
 
@@ -76,15 +75,10 @@ To test it, open the `index.html` file in your browser.
 ---
 
 ## 📌 Future Enhancements
-✅ User Authentication (Login/Signup)
-✅ Payment Gateway Integration
 ✅ Order Management
 ✅ Product Categories & Filters
 
 ---
-
-## 📄 License
-This project is licensed under the **MIT License**.
 
 ---
 
@@ -103,6 +97,6 @@ Create a **pull request**, and I'll review it. 🚀
 ---
 
 ## 📞 Contact
-For any queries, reach out at **your-email@example.com** or connect on GitHub!
+For any queries, reach out at **shaikharbaz18691@gmail.com** or connect on GitHub!
 
 Happy coding! 😊
